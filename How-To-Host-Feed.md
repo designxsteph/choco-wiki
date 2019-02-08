@@ -7,7 +7,7 @@
   - [Known Hosting Options](#known-hosting-options)
     - [Others](#others)
 - [Package Version Immutability](#package-version-immutability)
-- [Local Folder / UNC Share (CIFS)](#local-folder--unc-share-cifs)
+- [Local Folder / UNC Share (CIFS)](#local-folder-unc-share-cifs)
   - [Advantages](#advantages)
   - [Disadvantages](#disadvantages)
   - [Local Folder Share Setup](#local-folder-share-setup)
@@ -49,7 +49,7 @@ Chocolatey has had the ability to be able to work with packages from one or more
 * [[Security and the community repository|Security#organizational-use-of-chocolatey]]
 
 ## Host your own server
-There are a few types of package repositories, [folder/unc share](#local-folder--unc-share), [simple server](#simple-server), the sophisticated [package gallery](#package-gallery), and the more sophisticated [commercial package repositories](#commercial-package-repositories).
+There are a few types of package repositories, [folder/unc share](#local-folder-unc-share), [simple server](#simple-server), the sophisticated [package gallery](#package-gallery), and the more sophisticated [commercial package repositories](#commercial-package-repositories).
 
 ### Known Hosting Options
 Some of these options also work from a non-Windows hosting perspective. See [Non-Windows Hosting](#non-windows-hosting).
